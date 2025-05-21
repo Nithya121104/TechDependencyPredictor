@@ -1,0 +1,2 @@
+TechDependencyPredictor is a machine learning-based analytics and forecasting project that visualizes the current and future dependency of different user groups on technology—and explores its long-term effects on human cognitive development. Using a rich CSV dataset containing demographic and behavioral insights, the model predicts technological reliance over the next 50 years and presents key findings through interactive visualizations.
+
